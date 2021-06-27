@@ -9,6 +9,6 @@ type in the commands terminal (traveling previously to the file directory)
 
 or right click on main.py, open with->python
 
-you need of couse python installed with the pygame library, for more instructions go to
+You need of couse python installed with the pygame library, for more instructions go to
 https://www.python.org/ to install python
 http://pygame.org/ to install pygame

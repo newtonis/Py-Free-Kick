@@ -1,5 +1,5 @@
 # py_free_kick
-this is and old game I made long time ago, feel free to improve it!
+This is a 3d Free Kick game made in Python using Pygame library.
 
 ## How to run it?
 
